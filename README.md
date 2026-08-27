@@ -28,23 +28,17 @@ My interests include Solidity smart contracts, decentralized verification, React
 <tr>
 <td width="50%">
 
-### Workflow Automation & Trading Bot Platform — Currently Building
+### PharmaChain
 
-A no-code workflow execution platform inspired by tools such as n8n, with a visual node-based builder and a backend designed to store, process, and execute connected workflows.
+A Web3 and AI application concept designed to help detect counterfeit medicine packaging in Pakistan.
 
-- Building a visual workflow editor with React Flow
+- Solidity smart contracts for authenticity verification
 
-- Designing frontend user journeys for creating and connecting workflow nodes
+- Check-to-Earn incentive model
 
-- Structuring the application as a scalable monorepo
+- Blockchain and AI-assisted verification workflow
 
-- Developing backend workflow storage and business logic with Node.js, MongoDB, and Mongoose
-
-- Exploring an execution engine for running connected workflows and trading-bot logic
-
-**Project reference:** [Watch the project walkthrough on YouTube](https://www.youtube.com/watch?v=NYCUMKUBcXM)
-
-**Repository:** Add your project repository URL here when it is public.
+**Repository:** Add your PharmaChain repository URL here.
 
 </td>
 <td width="50%">
