@@ -1,7 +1,7 @@
 # Hi, I'm Samad Ali Siddiqui   
 
 ### Software Engineering Undergraduate | Web3 Developer | Full-Stack React Developer | AI Builder
-
+   
 I am a Software Engineering undergraduate at Muhammad Ali Jinnah University, Karachi, passionate about building secure, practical, and user-focused software with blockchain and artificial intelligence.
 
 My technical interests include Solidity smart contracts, decentralized verification, React-based full-stack applications, AI agents, large language model integrations, and lightweight desktop software.
