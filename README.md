@@ -17,12 +17,15 @@ I’m **Samad Ali Siddiqui**, a Software Engineering undergraduate at Muhammad A
 
 I enjoy working on the difficult middle layer between an idea and a dependable product: architecture, data flow, secure logic, user journeys, and interfaces that feel simple even when the system behind them is complex.
 
-```text
-focus = ["Web3", "AI", "Full-Stack Systems"]
-currently_building = "Visual workflow automation and trading platform"
-location = "Karachi, Pakistan"
-status = "open to internships, collaborations, and junior engineering roles"
-```
+<div align="center">
+
+| CURRENTLY | FOCUS | BASED IN |
+|:---:|:---:|:---:|
+| Building a visual workflow automation platform | Web3 · AI · Full-Stack Systems | Karachi, Pakistan |
+
+**Open to internships, collaborations, and junior software engineering opportunities.**
+
+</div>
 
 ## Current build: workflow automation platform
 
@@ -92,22 +95,13 @@ Bachelor of Science in Software Engineering · 2023–2027
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Samad-Ali-S&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=2DD4BF&text_color=CBD5E1&custom_title=Building%20in%20Public" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-Ali-S&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=CBD5E1&custom_title=Languages%20I%20Use" height="165" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Samad-Ali-S&theme=transparent&hide_border=true&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samad-Ali-S?tab=repositories)
+[![Projects](https://img.shields.io/badge/Projects-Building-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samad-Ali-S?tab=projects)
+[![Followers](https://img.shields.io/github/followers/Samad-Ali-S?style=for-the-badge&label=Followers&color=2563EB)](https://github.com/Samad-Ali-S)
 
 </div>
 
-## Contribution animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Samad-Ali-S/Samad-Ali-S/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
-
-</div>
+I use GitHub as a public engineering notebook: documenting what I build, testing ideas, and improving systems one iteration at a time.
 
 ## Connect
 
@@ -119,6 +113,8 @@ Bachelor of Science in Software Engineering · 2023–2027
 </div>
 
 <div align="center">
+
+<img src="./assets/samad-ali-animated-footer.gif" alt="Animated thank-you footer" width="100%" />
 
 *Build deliberately. Learn continuously. Ship thoughtfully.*
 
