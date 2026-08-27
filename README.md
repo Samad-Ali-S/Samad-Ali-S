@@ -6,7 +6,7 @@ I am a Software Engineering undergraduate at Muhammad Ali Jinnah University, Kar
 
 My technical interests include Solidity smart contracts, decentralized verification, React-based full-stack applications, AI agents, large language model integrations, and lightweight desktop software.
 
-- Based in Karachi, Pakistan
+- Based in Karachi, Pakistan    
 
 - Studying BS Software Engineering at Muhammad Ali Jinnah University
 
