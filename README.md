@@ -1,86 +1,85 @@
-# Hi, I'm Samad Ali Siddiqui   
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Samad%20Ali%20Siddiqui&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Web3%20%7C%20AI%20%7C%20Full-Stack%20Development&descAlignY=55&descSize=18" width="100%" /> <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Blockchain+Developer+%7C+Solidity+%26+Smart+Contracts;React+%26+Python+Full-Stack+Developer;Building+AI+Agents+and+Web3+Applications" alt="Typing animation" />
+</a> <p>
+  <a href="https://github.com/Samad-Ali-S"><img src="https://img.shields.io/badge/GitHub-Samad--Ali--S-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/samad-ali-siddiqui-a6790b323/"><img src="https://img.shields.io/badge/LinkedIn-Samad%20Ali%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Samad-Ali-S&style=for-the-badge&color=2563EB" alt="Profile views" />
+</p> </div>
 
-### Software Engineering Undergraduate | Web3 Developer | Full-Stack React Developer | AI Builder
-   
-I am a Software Engineering undergraduate at Muhammad Ali Jinnah University, Karachi, passionate about building secure, practical, and user-focused software with blockchain and artificial intelligence.
+## About Me
 
-My technical interests include Solidity smart contracts, decentralized verification, React-based full-stack applications, AI agents, large language model integrations, and lightweight desktop software.
+I am a Software Engineering undergraduate at Muhammad Ali Jinnah University, Karachi, focused on building secure, practical, and user-centered software with blockchain and artificial intelligence.
 
-- Based in Karachi, Pakistan    
+My interests include Solidity smart contracts, decentralized verification, React-based full-stack applications, AI agents, large language model integrations, and lightweight desktop software. I enjoy turning complex technical ideas into clear, usable products.
 
-- Studying BS Software Engineering at Muhammad Ali Jinnah University
+- Currently studying **BS Software Engineering at MAJU**
 
-- Building with Solidity, React.js, Next.js, Node.js, Python, Tauri, and Tailwind CSS
+- Currently building with **Solidity, React.js, Next.js, Node.js, Python, Tauri, and Tailwind CSS**
 
-- Exploring Web3 security, AI agents, LangGraph, LlamaIndex, and scalable software architecture
+- Exploring **Web3 security, AI agents, LangGraph, LlamaIndex, and scalable software architecture**
 
-- Open to internships, collaborations, and entry-level software engineering opportunities
+- Based in **Karachi, Pakistan**
 
-## What I Build
-
-### Web3 and Blockchain
-
-I develop blockchain concepts and decentralized application components using Solidity, smart contracts, and verification-focused architectures. My current interests include smart-contract security, product authenticity verification, and incentive-based decentralized applications.
-
-### Artificial Intelligence
-
-I explore machine learning, AI agents, large language model integrations, LangGraph, LlamaIndex, and generative AI workflows to create more useful and intelligent applications.
-
-### Full-Stack and Desktop Applications
-
-I build responsive web interfaces with React and modern JavaScript tools, as well as lightweight desktop applications using Python, Tauri, and React.
+- Open to **internships, collaborations, and entry-level software engineering opportunities**
 
 ## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### PharmaChain
 
 A Web3 and AI application concept designed to help detect counterfeit medicine packaging in Pakistan.
 
-- Designed a blockchain-based medicine-authenticity verification workflow
+- Solidity smart contracts for authenticity verification
 
-- Developed Solidity smart contracts for authenticity verification
+- Check-to-Earn incentive model
 
-- Integrated a Check-to-Earn incentive model to encourage product verification
+- Blockchain and AI-assisted verification workflow
 
-- Explored how AI can support verification and user interaction
+**Repository:** Add your PharmaChain repository URL here.
 
-**Repository:** Add the public PharmaChain repository link here.
+</td>
+<td width="50%">
 
 ### BlockState
 
-A system-level productivity desktop application for Windows designed to help enforce user focus at the operating-system level.
+A system-level productivity desktop application for Windows designed to help enforce focus at the operating-system level.
 
 - Built with Python, Tauri, and React
 
-- Designed a lightweight and responsive desktop interface
+- Lightweight desktop interface
 
-- Developed application logic for focus enforcement and productivity management
+- Developed for a university HCI project
 
-- Created as part of a university Human–Computer Interaction project
+**Repository:** Add your BlockState repository URL here.
 
-**Repository:** Add the public BlockState repository link here.
+</td>
+</tr>
+</table>
 
-## Technologies and Tools
+## Tech Stack
 
-### Languages and Frameworks
+<div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Skills:** Solidity · Smart Contracts · Smart-Contract Security · React.js · Next.js · Node.js · Python · JavaScript · HTML · CSS · Tailwind CSS · Tauri
+</div>
 
-### AI and Development Tools
-
-**Artificial Intelligence:** Machine Learning · AI Agents · LangGraph · LlamaIndex · Large Language Model Integrations · Generative AI
-
-**Tools:** Git · GitHub · Figma · Software Architecture · UI Design · Human–Computer Interaction
+| Area | Technologies |
+| --- | --- |
+| **Blockchain** | Solidity, smart contracts, smart-contract security, decentralized applications, blockchain verification |
+| **Frontend** | React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS |
+| **Backend and Desktop** | Node.js, Python, Tauri |
+| **Artificial Intelligence** | Machine learning, AI agents, LangGraph, LlamaIndex, LLM integrations, generative AI |
+| **Tools** | Git, GitHub, Figma, software architecture, UI design, Human–Computer Interaction |
 
 ## Certifications
 
 - **Machine Learning Specialization** — Coursera / Andrew Ng
 
 - **Technology Software Development Job Simulation** — Citi, completed through Forage
-
-- **Data Structures and OOP with C++, C#10, C#105 Masterclass** — verify the exact issuer shown on the certificate
 
 - **React Creating and Hosting a Full-Stack Site** — LinkedIn Learning, issued June 2024
 
@@ -90,34 +89,27 @@ A system-level productivity desktop application for Windows designed to help enf
 
 - **Practical Git and GitHub** — LinkedIn Learning
 
-## Other Repositories
+- **Data Structures and OOP with C++, C#10, C#105 Masterclass** — verify the exact issuer before publishing
 
-- [React2](https://github.com/Samad-Ali-S/react2)
+## GitHub Statistics
 
-- [Ubiquitous Spoon](https://github.com/Samad-Ali-S/ubiquitous-spoon)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samad-Ali-S&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Samad's%20GitHub%20Stats" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-Ali-S&layout=compact&hide_border=true&theme=transparent&custom_title=Most%20Used%20Languages" height="170" alt="Top languages" />   
+ <img src="https://streak-stats.demolab.com?user=Samad-Ali-S&theme=transparent&hide_border=true" alt="GitHub contribution streak" /> </div>
 
-- [First Commit](https://github.com/Samad-Ali-S/First-Commit)
+## Contribution Animation
 
-## Education
-
-**Muhammad Ali Jinnah University, Karachi**Bachelor of Science in Software EngineeringSeptember 2023 – 2027
+<div align="center"> <!-- This image is generated automatically by the GitHub Actions workflow in this repository. --> <img src="https://raw.githubusercontent.com/Samad-Ali-S/Samad-Ali-S/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" /> </div>
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samad-ali-siddiqui-a6790b323/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samad-Ali-S)
+<div align="center"> <a href="https://www.linkedin.com/in/samad-ali-siddiqui-a6790b323/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/Samad-Ali-S">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+</a> </div> <div align="center">
 
-- LinkedIn: [Samad Ali Siddiqui](https://www.linkedin.com/in/samad-ali-siddiqui-a6790b323/)
+### Always learning. Always building. Always improving.
 
-- GitHub: [Samad-Ali-S](https://github.com/Samad-Ali-S)
-
-- Email: Add your professional email here
-
-## GitHub Activity
-
-![Samad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samad-Ali-S&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samad-Ali-S&layout=compact&theme=transparent&hide_border=true)
-
----
-
-*Always learning, building, and documenting the journey.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer" width="100%" /> </div>
