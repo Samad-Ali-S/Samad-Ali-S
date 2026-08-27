@@ -11,7 +11,7 @@
 
 </div>
 
-## Hello, world.
+## Asalam Aliakum 
 
 I’m **Samad Ali Siddiqui**, a Software Engineering undergraduate at Muhammad Ali Jinnah University in Karachi. I build at the intersection of **Web3, artificial intelligence, and full-stack engineering**.
 
